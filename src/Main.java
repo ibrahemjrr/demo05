@@ -6,6 +6,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("hola");
         System.out.println("adding new lines");
+        System.out.println("sssssssss");
 
     }
 }
